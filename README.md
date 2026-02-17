@@ -3,6 +3,8 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-Auth-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
 
+🇪🇸 Versión en español disponible aquí: [README.es.md](./README.es.md)
+
 # Veterinary Management API
 
 A RESTful API designed for veterinary clinic management.
